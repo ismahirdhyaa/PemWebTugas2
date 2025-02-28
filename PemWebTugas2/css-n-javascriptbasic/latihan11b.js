@@ -1,0 +1,1 @@
+<script language="javascript" src="latihan11b.js"></script>
